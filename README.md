@@ -1,4 +1,4 @@
-# bulletinboard
+# bulletinboard - 公告栏（无缝滚动）
 
 ## Project setup
 ```
